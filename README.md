@@ -1,7 +1,7 @@
 # Turbofan-engine-param-calculator
 
 ```
-git clone 
+git clone https://github.com/NEONGASHMEN/Turbofan-engine-param-calculator.git
 cd Turbofan-engine-param-calculator
 python3 main.py
 ```
